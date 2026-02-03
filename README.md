@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Nugitha! 👋<br><br><br>🎓 I’m a Computer Science undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), currently in my second semester.<br><br>💻 I’m interested in Python development, full-stack applications, and software engineering.<br><br>🤖 Exploring Machine Learning & Deep Learning concepts through my Neural X-Ray Diagnostic system and SmartBank Loan Predictor.<br><br>📊 Learning problem-solving, data structures, and memory management in C to build high-performance applications.<br><br>🤝 Open to collaborating on tech, data-driven, and automation projects.
+Hi there, I'm Nugitha! 👋<br><br><br>🎓 I’m a Computer Science undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)..<br><br>💻 I’m interested in Python development, full-stack applications, and software engineering.<br><br>🤖 Exploring Machine Learning & Deep Learning concepts through my Neural X-Ray Diagnostic system and SmartBank Loan Predictor.<br><br>📊 Learning problem-solving, data structures, and memory management in C to build high-performance applications.<br><br>🤝 Open to collaborating on tech, data-driven, and automation projects.
 
 
 ## 🌐 Socials:
